@@ -1,3 +1,46 @@
+@import '_content/PSC.Blazor.Components.AutoComplete/PSC.Blazor.Components.AutoComplete.bundle.scp.css';
+
+/* /Components/AddPlayer.razor.rz.scp.css */
+.autocomplete[b-z1zt7emqgr] {
+    position: relative;
+}
+
+.autocomplete .options[b-z1zt7emqgr] {
+    position: absolute;
+    top: 40px;
+    left: 0;
+    background: white;
+    width: 100%;
+    padding: 0;
+    z-index: 10;
+    border: 1px solid #ced4da;
+    border-radius: 0.5rem;
+    box-shadow: 0 30px 25px 8px rgba(0, 0, 0, 0.1);
+}
+
+.autocomplete .option[b-z1zt7emqgr] {
+    display: block;
+    padding: 0.25rem;
+}
+
+.autocomplete .option .option-text[b-z1zt7emqgr] {
+    padding: 0.25rem 0.5rem;
+}
+
+.autocomplete .option:hover[b-z1zt7emqgr] {
+    background: #1E90FF;
+    color: #fff;
+}
+
+.autocomplete .option.disabled[b-z1zt7emqgr] {
+    background-color: lightgrey;
+    cursor: not-allowed;
+}
+
+.autocomplete .option.disabled:hover[b-z1zt7emqgr] {
+    background: lightgrey;
+    color: var(--bs-body);
+}
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-91h0926031] {
     position: relative;
