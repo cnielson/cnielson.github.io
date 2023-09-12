@@ -8,8 +8,8 @@
   "resources": {
     "assembly": {
       "Blazored.LocalStorage.dll": "sha256-w2vMoqbIgF9UyzKqfDFXjqgg7IsGRHDvzb6DcyaPW6s=",
-      "DiscLeague.App.dll": "sha256-kV4HOqbap+ZttVkgitSdfNYC3Q57aARFRTV4wluxkGc=",
-      "Microsoft.AspNetCore.Components.dll": "sha256-\/tg42XI3\/4ZvPtuFJmWJeaJWqEy4lTnMRGAYnIWHk+g=",
+      "DiscLeague.App.dll": "sha256-9c7asQBSWc91uuULiy10rQMD\/rWVJPhgm\/11MpilgiM=",
+      "Microsoft.AspNetCore.Components.dll": "sha256-jW4715XeNsMhWrbJIRSLZa5g6Dr6DepOWu9hPYhBcYc=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-Q0WfAaL4xETTlDPDiVgqRm3lLKRHbcUGKmkDYv\/\/P6M=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-bIAp+bXZ9sPoi6j9jdmfMlLtoY8bHANdiHUefDRQYgM=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-QFSmiVdDSx\/fHjmDaoP70vnI8iBP\/eNuB4pvfr+cPM8=",
@@ -27,7 +27,7 @@
       "Microsoft.JSInterop.dll": "sha256-9ZGQqPtvazUXJotRHyoaXztS9Jll4DvcBZr7T807SXU=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-DI0RkZky47FtF3\/3VasOGjpMhrR+H3kb1cv\/2kzJoBQ=",
       "Microsoft.Win32.Primitives.dll": "sha256-SswOkiuuEFcYmSODwTZqriVLmxYiuQUsgFYUNMDrusQ=",
-      "MudBlazor.dll": "sha256-K4tS17dRTbT+xaCJxCcEB8hu+YeS9KbrT6fDuX2tSs4=",
+      "MudBlazor.dll": "sha256-Mds++1p0+sFaBV9sCBMz7lc7N+09kLXIjQMjX9mn6PE=",
       "Newtonsoft.Json.dll": "sha256-IsZJ91\/OW+fHzNqIgEc7Y072ns8z9dGritiSyvR9Wgc=",
       "System.Collections.Concurrent.dll": "sha256-qiz4wJQtFX4\/JWzn6ew1lqc08X\/3Cfuc7kFW6szI1vs=",
       "System.Collections.dll": "sha256-7ZK194uQdRnIE52G7j4vQaZ3HISEtPjJKhl9P7Mmma8=",
@@ -44,7 +44,7 @@
       "System.dll": "sha256-UIwFoItq84gQ8USr278vZjIR575eP5X8be6tfRIIXeo=",
       "System.Drawing.dll": "sha256-EgUoMXfGtcOzCNB2ojpuQIWLugnPW2OCUaN49kgUtIc=",
       "System.Drawing.Primitives.dll": "sha256-QqWtzaQpHzoNmmpeBT9KILxXKg+J9lfx0zhsDag+\/p4=",
-      "System.Linq.dll": "sha256-z8R5uCTvA2Lzql2+H5ue2EoAXDaCrrVdmcaAgBbijEs=",
+      "System.Linq.dll": "sha256-tuN25MMniZtv9Ve6EMUkbW27qzqGQGIuwO9lKdDHNsI=",
       "System.Linq.Expressions.dll": "sha256-+zh2GBVRZ++fFzqsHL2JLHi0OG12dMWSugTGZxoNJJM=",
       "System.Linq.Queryable.dll": "sha256-hPns8XtQHU+8t29Lgif1G22i3wST27WtOHopMGnZc3E=",
       "System.Memory.dll": "sha256-oLMqYqILyJVqi05juvTAfoIRbg5XXS5NvJ+NapnLOyA=",
