@@ -8,7 +8,7 @@
   "resources": {
     "assembly": {
       "Blazored.LocalStorage.dll": "sha256-w2vMoqbIgF9UyzKqfDFXjqgg7IsGRHDvzb6DcyaPW6s=",
-      "DiscLeague.App.dll": "sha256-kT5ZirZgmaAFy4RwLP2L1X+4Sw6LUdIF0tberSy87K4=",
+      "DiscLeague.App.dll": "sha256-yT0\/3jpntbzvV4HOj7kvIoDwzTlAdGN0FgjZh0VJHNw=",
       "Microsoft.AspNetCore.Components.dll": "sha256-jW4715XeNsMhWrbJIRSLZa5g6Dr6DepOWu9hPYhBcYc=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-Q0WfAaL4xETTlDPDiVgqRm3lLKRHbcUGKmkDYv\/\/P6M=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-bIAp+bXZ9sPoi6j9jdmfMlLtoY8bHANdiHUefDRQYgM=",
