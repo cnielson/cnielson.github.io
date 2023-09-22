@@ -8,7 +8,7 @@
   "resources": {
     "assembly": {
       "Blazored.LocalStorage.dll": "sha256-w2vMoqbIgF9UyzKqfDFXjqgg7IsGRHDvzb6DcyaPW6s=",
-      "DiscLeague.App.dll": "sha256-V\/BQhI0SniU8eM2v+cokGqhlYfQu2+oirhjPCN8nggY=",
+      "DiscLeague.App.dll": "sha256-Sf94QAlrYERe7myRakrDzVlApN2VG8kHgBXa3B7+zcw=",
       "Microsoft.AspNetCore.Components.dll": "sha256-jW4715XeNsMhWrbJIRSLZa5g6Dr6DepOWu9hPYhBcYc=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-Q0WfAaL4xETTlDPDiVgqRm3lLKRHbcUGKmkDYv\/\/P6M=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-bIAp+bXZ9sPoi6j9jdmfMlLtoY8bHANdiHUefDRQYgM=",
@@ -53,7 +53,7 @@
       "System.Net.WebSockets.Client.dll": "sha256-rgUER9DqDe0q2QgXFmfDRW7zelNX6w681Q2bA6vbDpY=",
       "System.Net.WebSockets.dll": "sha256-gttxzwZP1XASbyeqDqAAzxW\/3EV0heNypP7Z7NwKzo4=",
       "System.ObjectModel.dll": "sha256-k3IrwQBP6HLvs+laakWkAsKf5WHfu5NpBwy5Q0ftMqY=",
-      "System.Private.CoreLib.dll": "sha256-CSem4fptOcwQ+KuXvsfaGsxvBxQx8B3wd2hy2GkgwAQ=",
+      "System.Private.CoreLib.dll": "sha256-B7cXQe2go\/nFaFZm9ONe3DssuVRTJaqicLOVV4viW5E=",
       "System.Private.Runtime.InteropServices.JavaScript.dll": "sha256-5HI+Y+zJjG1qSyeG\/C0wFjz5wyVsDq75Ua9gY0wxe18=",
       "System.Private.Uri.dll": "sha256-kWyLjc30uY2KIO05IKPr2mEIMiTbOAdMp0eCyh47pOs=",
       "System.Private.Xml.dll": "sha256-RmJ4U4E9hU2Lea4ac4FzU1sCdFnEnQnuns9OYua71dE=",
@@ -63,7 +63,7 @@
       "System.Reflection.Emit.Lightweight.dll": "sha256-J6e59eNL8JML9j8Np+PP4a7u9uegH\/T88QkBFhXe48M=",
       "System.Reflection.Primitives.dll": "sha256-RDqJfBBCw388NGXqnUITS1j4RX+p+F6W9MYamiBWe3g=",
       "System.Runtime.CompilerServices.Unsafe.dll": "sha256-xcBI0NGVGMHc1iW0gmfp5EKQjBFRBgrKZX87avYxWLk=",
-      "System.Runtime.dll": "sha256-bvpYVI0ICyg3Yy\/O8jwb\/pQhu5AW6cC043Md5oYRRd8=",
+      "System.Runtime.dll": "sha256-YY+4NsrMYJWt6ARKm8nzgjfR2tbZM73UhCsXZCagnlg=",
       "System.Runtime.InteropServices.dll": "sha256-Pb4ZxBon9YZqqHpDEnSg6RbzdobJEMMFbS9XDv\/Dkr8=",
       "System.Runtime.InteropServices.RuntimeInformation.dll": "sha256-LaNzGbL6iVL3eVgjon1pFbAUEcj3B2FbJN6rJBeal2w=",
       "System.Runtime.Numerics.dll": "sha256-mEi+h4j234zjohACnMNY27Hg4TLK2A\/YV\/W5ZPanbso=",
