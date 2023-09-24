@@ -8,7 +8,7 @@
   "resources": {
     "assembly": {
       "Blazored.LocalStorage.dll": "sha256-w2vMoqbIgF9UyzKqfDFXjqgg7IsGRHDvzb6DcyaPW6s=",
-      "DiscLeague.App.dll": "sha256-vVV6O8fdbDFRAzJO4VfFaRGK0HZUmNLJBNMOjZ\/AAjc=",
+      "DiscLeague.App.dll": "sha256-S9AMOTDUgKTJJRE2ThBpqXjDLEY7TZChWrQmujWyj\/M=",
       "Microsoft.AspNetCore.Components.dll": "sha256-jW4715XeNsMhWrbJIRSLZa5g6Dr6DepOWu9hPYhBcYc=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-Q0WfAaL4xETTlDPDiVgqRm3lLKRHbcUGKmkDYv\/\/P6M=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-bIAp+bXZ9sPoi6j9jdmfMlLtoY8bHANdiHUefDRQYgM=",
@@ -27,7 +27,7 @@
       "Microsoft.JSInterop.dll": "sha256-9ZGQqPtvazUXJotRHyoaXztS9Jll4DvcBZr7T807SXU=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-DI0RkZky47FtF3\/3VasOGjpMhrR+H3kb1cv\/2kzJoBQ=",
       "Microsoft.Win32.Primitives.dll": "sha256-SswOkiuuEFcYmSODwTZqriVLmxYiuQUsgFYUNMDrusQ=",
-      "MudBlazor.dll": "sha256-pmLxOnX05pp4mIJxj10vTZp+QBf4ZbP\/PR2b6mloppA=",
+      "MudBlazor.dll": "sha256-CiPNwT3jHO7+83AZZHBsX\/SQrHo1\/Kf4h63cfzBjUbs=",
       "Newtonsoft.Json.dll": "sha256-IsZJ91\/OW+fHzNqIgEc7Y072ns8z9dGritiSyvR9Wgc=",
       "System.Collections.Concurrent.dll": "sha256-qiz4wJQtFX4\/JWzn6ew1lqc08X\/3Cfuc7kFW6szI1vs=",
       "System.Collections.dll": "sha256-7ZK194uQdRnIE52G7j4vQaZ3HISEtPjJKhl9P7Mmma8=",
@@ -53,7 +53,7 @@
       "System.Net.WebSockets.Client.dll": "sha256-rgUER9DqDe0q2QgXFmfDRW7zelNX6w681Q2bA6vbDpY=",
       "System.Net.WebSockets.dll": "sha256-gttxzwZP1XASbyeqDqAAzxW\/3EV0heNypP7Z7NwKzo4=",
       "System.ObjectModel.dll": "sha256-k3IrwQBP6HLvs+laakWkAsKf5WHfu5NpBwy5Q0ftMqY=",
-      "System.Private.CoreLib.dll": "sha256-B7cXQe2go\/nFaFZm9ONe3DssuVRTJaqicLOVV4viW5E=",
+      "System.Private.CoreLib.dll": "sha256-kaHcEGvKwNf7I3Uu1wyX6skhwV470uoOqukTnfgarN0=",
       "System.Private.Runtime.InteropServices.JavaScript.dll": "sha256-5HI+Y+zJjG1qSyeG\/C0wFjz5wyVsDq75Ua9gY0wxe18=",
       "System.Private.Uri.dll": "sha256-kWyLjc30uY2KIO05IKPr2mEIMiTbOAdMp0eCyh47pOs=",
       "System.Private.Xml.dll": "sha256-RmJ4U4E9hU2Lea4ac4FzU1sCdFnEnQnuns9OYua71dE=",
