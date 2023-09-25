@@ -8,7 +8,7 @@
   "resources": {
     "assembly": {
       "Blazored.LocalStorage.dll": "sha256-w2vMoqbIgF9UyzKqfDFXjqgg7IsGRHDvzb6DcyaPW6s=",
-      "DiscLeague.App.dll": "sha256-G3Mi+5RQ7JWfuzRQXiN5XjqIo+9ft4DWimEfGhWnzEU=",
+      "DiscLeague.App.dll": "sha256-\/nIyOCCCe3v4IRr4wnx3kvoM9RXDs\/wvord55SO4qY0=",
       "Microsoft.AspNetCore.Components.dll": "sha256-jW4715XeNsMhWrbJIRSLZa5g6Dr6DepOWu9hPYhBcYc=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-Q0WfAaL4xETTlDPDiVgqRm3lLKRHbcUGKmkDYv\/\/P6M=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-bIAp+bXZ9sPoi6j9jdmfMlLtoY8bHANdiHUefDRQYgM=",
@@ -36,7 +36,7 @@
       "System.ComponentModel.Annotations.dll": "sha256-8GmgzEdsl3ilSRk\/V+RmXzrrAX25ZuCGVKNIaW25zns=",
       "System.ComponentModel.dll": "sha256-elx2N9I5VSYyKZi9rwlxfaZXPC7KBYzRFrf\/cWObwW0=",
       "System.ComponentModel.Primitives.dll": "sha256-LowkKfzt83tsByFG+COJOwp+zOes3SnlA0\/zNxtLwmo=",
-      "System.ComponentModel.TypeConverter.dll": "sha256-NI9hCuTPMnv4b5cVH7\/xSPLncysEWFBM9YYFWW1GMhg=",
+      "System.ComponentModel.TypeConverter.dll": "sha256-ce9NYfGm4nSQit0Kg+WUMAHGP+QTSNl7MuBs4z1KCcM=",
       "System.Console.dll": "sha256-1Fp\/F8a7hH8CVC6bCgm\/lkot8sLtaDoJl18QBKBHqRQ=",
       "System.Data.Common.dll": "sha256-ME7LLkNI1jZ0\/xWNWSQW6319eYQxo+9gkHl\/5jB9tO0=",
       "System.Diagnostics.StackTrace.dll": "sha256-Rsut5DRDMw2uUnBvs6kDm1gPAt8X59vFtrQxM91+4Bk=",
