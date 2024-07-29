@@ -1,7 +1,7 @@
 {
   "entryAssembly": "DiscLeague.App",
   "resources": {
-    "hash": "sha256-NOO/wrNjsbbdW334TCK2PkrO8Z6wJNht7UcgDOPS1J8=",
+    "hash": "sha256-nGTEKitPF9NquRNmda12uxlMtHSp0GHFfugek6njs+Y=",
     "runtime": {
       "dotnet.6.0.29.i3c17ts92p.js": "sha256-BV1wi9qAMCmpfZ+aXPplngN3cFgig0bFqWhNad3R5Lo=",
       "dotnet.timezones.blat": "sha256-csJ9EjcYXaAQrYK1S5WLY51YBLmp7zcST7wH0IDbvgg=",
@@ -12,7 +12,7 @@
     },
     "assembly": {
       "Blazored.LocalStorage.dll": "sha256-w2vMoqbIgF9UyzKqfDFXjqgg7IsGRHDvzb6DcyaPW6s=",
-      "DiscLeague.App.dll": "sha256-YIXE/C0g2q8zzTStLR1d03l2sVt6e8ozYv3sPmYgMm8=",
+      "DiscLeague.App.dll": "sha256-fmirNYT/ATSht9M2o8ZWYJvsze8bmJeelHxqrl3EsZk=",
       "Microsoft.AspNetCore.Components.dll": "sha256-CF+fcaeSensi+A3jtOO8iUFxVRHbgFYlkhH+PmgS+s8=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-3r7fGCYO/kQ0tbsGxhqVj5bbQ6SmydE+Xi/wHPRNitE=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-0DqqoE1OrxTLE7BzeckQnQANC2NXiDH6J4e3sSzOoGY=",
