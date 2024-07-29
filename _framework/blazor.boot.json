@@ -1,7 +1,7 @@
 {
   "entryAssembly": "DiscLeague.App",
   "resources": {
-    "hash": "sha256-nGTEKitPF9NquRNmda12uxlMtHSp0GHFfugek6njs+Y=",
+    "hash": "sha256-xrrwXdRgZmwHAPRO2AtAmPptfywZCNHstEvHWheV3SA=",
     "runtime": {
       "dotnet.6.0.29.i3c17ts92p.js": "sha256-BV1wi9qAMCmpfZ+aXPplngN3cFgig0bFqWhNad3R5Lo=",
       "dotnet.timezones.blat": "sha256-csJ9EjcYXaAQrYK1S5WLY51YBLmp7zcST7wH0IDbvgg=",
@@ -12,7 +12,7 @@
     },
     "assembly": {
       "Blazored.LocalStorage.dll": "sha256-w2vMoqbIgF9UyzKqfDFXjqgg7IsGRHDvzb6DcyaPW6s=",
-      "DiscLeague.App.dll": "sha256-fmirNYT/ATSht9M2o8ZWYJvsze8bmJeelHxqrl3EsZk=",
+      "DiscLeague.App.dll": "sha256-ziGZOaRwEKKTZ6zF3vCJFRNZDxAGyAx0BIBvVlQsFr8=",
       "Microsoft.AspNetCore.Components.dll": "sha256-CF+fcaeSensi+A3jtOO8iUFxVRHbgFYlkhH+PmgS+s8=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-3r7fGCYO/kQ0tbsGxhqVj5bbQ6SmydE+Xi/wHPRNitE=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-0DqqoE1OrxTLE7BzeckQnQANC2NXiDH6J4e3sSzOoGY=",
@@ -77,7 +77,7 @@
       "System.Text.Encoding.Extensions.dll": "sha256-MtaZkd8FtuxT5U/hUoSMWt+Tmkwxkp7NG1SIO5OJL3s=",
       "System.Text.Encodings.Web.dll": "sha256-I/r3v0ZuvipC4XbnBUilVvZm/SeM7fXH7SZC8KFgcqY=",
       "System.Text.Json.dll": "sha256-p+aBVC6c5STp98xmVg9K0doBw2T9ZHCBCDdfXkPKW2A=",
-      "System.Text.RegularExpressions.dll": "sha256-kXtxrYVypoWvWNUF02epAd6CNozKwObfRzJyH6ltwLQ=",
+      "System.Text.RegularExpressions.dll": "sha256-xk/1u5BRhirLXEfmWQ6Bk8nltPG01sP7XMGtZ48FSz8=",
       "System.Threading.Channels.dll": "sha256-0nKarvIOqjL0NwvK2IzTLE1Jbig8S2FMsPbNj1AORY4=",
       "System.Threading.dll": "sha256-2l3Vp0cqcWA3DH3Rj4fzgIWgV9TMUyKy1+HW22hmIrY=",
       "System.Threading.Thread.dll": "sha256-niWpcQQFrACp9kqNHPCnndBDiQ6IwGlS6hP/9LI23s8=",
